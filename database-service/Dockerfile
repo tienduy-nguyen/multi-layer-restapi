@@ -1,4 +1,0 @@
-#FROM postgres:13.3-alpine THis is not working with initialization
-
-FROM postgres:11.2-alpine
-COPY ./docker-test_backup_latest.sql /docker-entrypoint-initdb.d/
