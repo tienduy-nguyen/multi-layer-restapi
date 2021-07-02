@@ -4,6 +4,7 @@
 
 - [Part 1](https://itnext.io/dockerize-a-react-nodejs-app-and-deploy-in-aws-ec2-the-startup-way-part-1-b398d71c384b)
 - [Part 2](https://itnext.io/dockerize-a-react-nodejs-app-and-deploy-in-aws-ec2-the-startup-way-part-2-303921149faf)
+- [Other ref on dev.to](https://dev.to/rmiyazaki6499/deploying-a-production-ready-react-express-app-on-aws-62m)
 
 ## Docker images
 
